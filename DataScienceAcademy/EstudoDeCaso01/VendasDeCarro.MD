@@ -13,3 +13,7 @@ Seu gerente precisa das seguintes informações:<br>
 1-Total de Vendas por Ano<br>
 2-Custo de Entrega do Veículo Por Fabricante<br>
 3-Custo de Mão de Obra Por Estado4-Total de Vendas Geral e Matriz de Vendas
+
+## Resultado do Dashboard
+
+![dashboard](https://i.ibb.co/CmvMndz/dashboard.jpg)
